@@ -27,5 +27,4 @@ https://kaatteriina.github.io/russian-travel/
 
 
 
-### Дальнейшие планы по доработке:
--
+
