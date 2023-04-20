@@ -13,7 +13,9 @@
 
   
   @media screen and (max-width: 767px) {
-    .footer__copyright {
+    .footer__author {
       line-height: 14px;
+      margin-bottom: 8px;
+      
     }
   }
