@@ -25,7 +25,7 @@
 
 https://kaatteriina.github.io/russian-travel/
 
-[Путешествие по России]()
+
 
 ### Дальнейшие планы по доработке:
 -
