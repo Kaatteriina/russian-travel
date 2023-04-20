@@ -1,0 +1,32 @@
+.place__website{
+  max-width: 456px;
+  min-width: 288px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #ffffff;
+    align-self: end;
+    
+  }
+
+  
+  @media screen and (max-width: 1023px) {
+    .place__website {
+      max-width: 352px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .place__website {
+      max-width: 288px;
+      margin-left: 16px;
+    }
+  }
+  
+  @media screen and (max-width: 460px) {
+    .place__website {
+      margin-left: 16px;
+    }
+  }
+ 
